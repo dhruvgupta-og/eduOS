@@ -1,0 +1,6 @@
+{
+  "name": "EduOS School Management System",
+  "description": "Multi-tenant School Management System with SIS, attendance, fee management, gradebook, and role-based portals for admins, teachers, parents, and students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
